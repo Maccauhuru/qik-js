@@ -1,14 +1,28 @@
 # Qik.js is a tiny library that can help you create some common functions quickly
 
+# Getting Started 
+
+### install the package with the simple command below
+
+```
+npm i qik.js
+```
+
 ## Example using the square function from qik.js library
 
 const { square, cube, squareroot  } = require('qik.js')
 
+
+
 console.log("Value of 3 to the square : ", square(3))
+
+
 
 console.log("Value of 2 to the cube : ", cube(2))
 
-console.log("Squarerrot value of 9 : ", squareroot(9))
+
+
+console.log("Squareroot value of 9 : ", squareroot(9))
 
 
 
@@ -17,7 +31,7 @@ console.log("Squarerrot value of 9 : ", squareroot(9))
 
 "Value of 2 to the cube : " : 8
 
-"Squarerrot value of 9 : " : 3
+"Squareroot value of 9 : " : 3
 ```
 
 ## Tables
