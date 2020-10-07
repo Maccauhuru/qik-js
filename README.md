@@ -2,12 +2,6 @@
 
 ## Example using the square function from qik.js library
 
-## Code
-
-Inline `code`
-
-Indented code
-
 const { square } = require('qik.js')
 console.log("Value of 3 to the square : ", square(3))
 
