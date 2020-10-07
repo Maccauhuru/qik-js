@@ -54,4 +54,14 @@ console.log("3 raised to the power of 2 : ", power(3,2))
 | power        | Find the value of 3 raised to the power 2 e.g qik.power(3,2)  --> 9 |
 
 
+## To customize
 
+Look for the index.js file and add your own custom functions to it
+
+Example is shown below
+
+```
+
+module.exports.myExample = num => "My Number is : " + num;
+
+```
