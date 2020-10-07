@@ -2,14 +2,22 @@
 
 ## Example using the square function from qik.js library
 
-const { square } = require('qik.js')
+const { square, cube, squareroot  } = require('qik.js')
+
 console.log("Value of 3 to the square : ", square(3))
 
+console.log("Value of 2 to the cube : ", cube(2))
 
-Output from above code
+console.log("Squarerrot value of 9 : ", squareroot(9))
+
+
 
 ```
-Output : 9
+"Value of 3 to the square : " : 9
+
+"Value of 2 to the cube : " : 8
+
+"Squarerrot value of 9 : " : 3
 ```
 
 ## Tables
