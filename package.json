@@ -1,6 +1,6 @@
 {
   "name": "qik.js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Quick JS Methods That Will Speed Up Your Development Time",
   "main": "index.js",
   "scripts": {
