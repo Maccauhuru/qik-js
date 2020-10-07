@@ -1,0 +1,30 @@
+{
+  "name": "qik.js",
+  "version": "1.0.2",
+  "description": "Quick JS Methods That Will Speed Up Your Development Time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maccauhuru/qik-js.git"
+  },
+  "keywords": [
+    "qik-js",
+    "qik",
+    "javascript",
+    "library",
+    "qik.js",
+    "qik",
+    "javascript",
+    "qiascript",
+    "framework"
+  ],
+  "author": "Simba Mupfukudzwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maccauhuru/qik-js/issues"
+  },
+  "homepage": "https://github.com/Maccauhuru/qik-js#readme"
+}
